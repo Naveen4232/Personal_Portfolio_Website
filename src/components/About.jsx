@@ -38,7 +38,7 @@ const About = () => {
               On a different note, I'm also into filmmaking📸. It's not just a hobby; I see it as a way to capture moments🌟📷, tell stories.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/19Vh0nx5JF9G_sgawb_dUIFlGSHtjp_dw/view?usp=drive_link'
+              url='https://drive.google.com/file/d/16tTJ6yoD3Ry3t8pYiGpvGuZKx4pJg1-f/view?usp=drive_link'
               text='View Resume →'
               padding={`p-3`}
             />
