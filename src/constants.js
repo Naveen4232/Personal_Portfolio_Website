@@ -19,14 +19,14 @@ export const name = 'Naveen';
 export const experiences = [
     {
         'company': 'Cognizant Technology Solutions',
-        'role': 'Java Intern (backend)',
-        'duration': 'May 2024 - July 2024',
+        'role': 'Java Intern',
+        'duration': 'Apr 2024 - Sep 2024',
         'logo': 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_Cognizant.png',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
+            'Gained experience with GitHub contributing to developing and maintaining code repositories.',
             'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.',
             'Gained experience with Java, SQL, CSS, HTML, and JavaScript Basics.',
-            'I have learned new skills and technologies and taken courses in udemy.'
+            'Gained experience with the Cognizant Tekstac platform.'
         ],
         'url': 'https://www.cognizant.com/in/en',
     },
